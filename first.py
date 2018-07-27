@@ -1,7 +1,7 @@
 num=float(input(""))
-if  num>0:
-   print("positive number")
-   elif num=0:
-      print("zero")
+if  num > 0:
+   print ("Positive")
+   elif num == 0:
+      print("Zero")
       else:
-         printf("negative nmber")
+         printf ("Negative")
